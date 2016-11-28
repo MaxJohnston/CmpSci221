@@ -37,7 +37,7 @@ public class MyUnit extends Being {
     
     public Image getUnitImg(){
         ImageIcon ic = 
-                new ImageIcon("C:\\Users\\Gomensnana\\Desktop\\Demo.png");
+                new ImageIcon("Demo.png");
         return ic.getImage();
     }
     
