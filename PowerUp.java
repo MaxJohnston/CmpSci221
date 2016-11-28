@@ -1,4 +1,4 @@
-//Jack Roboski
+//Jack Roboski and Max Johnston
 
 
 import java.awt.Graphics2D;
@@ -44,7 +44,7 @@ public class PowerUp extends Being {
     
     public Image getPowerUpImg(){
         ImageIcon ic = new ImageIcon
-        ("C:\\Users\\Gomensnana\\Desktop\\Demo.png");
+        ("Demo.png");
         return ic.getImage();
     }
     
